@@ -5,7 +5,7 @@ orders on the Binance Futures **USDT-M Testnet** (`https://testnet.binancefuture
 
 ## Project Structure
 
-```
+``` 
 trading_bot/
 ├── bot/
 │   ├── __init__.py
